@@ -1,4 +1,4 @@
-# FrontEnd
+# Code Rosa - Protótipo de frontend para o projeto do site do Code Rosa da Unifacisa
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.4.
 
